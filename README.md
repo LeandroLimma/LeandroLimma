@@ -3,15 +3,11 @@
 
 
 <!-- Sobre -->
-#### Sou estudante de análise e desenvolvimento de  sistemas e atualmente estou fazendo cursos na área de desenvolvimento front end e web designer.
+#### Estou no último semestre da minha graduação em Análise e Desenvolvimento de Sistemas, estou me especializando com cursos técnicos na área de Desenvolvimento Front End e Designer Web, estou buscando oportunidades para pôr em prática o meu aprendizado.
 
 
 <!-- Redes Sociais -->
-[![Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeandroLimma)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-lima-46bbb8258/)
-
-<!-- Estatística GitHub -->
-![Leandro GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeandroLimma&show_icons=true&theme=dark)
 
 
 
