@@ -3,7 +3,7 @@
 
 
 <!-- Sobre -->
-#### Estou no último semestre da minha graduação em Análise e Desenvolvimento de Sistemas, estou me especializando com cursos técnicos na área de Desenvolvimento Front End e Designer Web, estou buscando oportunidades para pôr em prática o meu aprendizado.
+#### Estou no último semestre da faculdade em Análise e Desenvolvimento de Sistemas, estou me especializando com cursos técnicos na área de Desenvolvimento Front End e Designer Web, estou buscando oportunidades para pôr em prática o meu aprendizado.
 
 
 <!-- Redes Sociais -->
